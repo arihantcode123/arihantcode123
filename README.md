@@ -78,9 +78,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arihantcode123&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=arihantcode123&icon=7&color=11" alt="visit badge"/>
-  </a>
-</p>
-
